@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QulixPhotoStock.Data\QulixPhotoStock.Data.csproj" />
+    <ProjectReference Include="..\QulixPhotoStock.Domain\QulixPhotoStock.Domain.csproj" />
+	  <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

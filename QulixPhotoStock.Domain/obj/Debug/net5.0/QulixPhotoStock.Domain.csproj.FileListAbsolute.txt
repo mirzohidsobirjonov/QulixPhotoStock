@@ -1,0 +1,12 @@
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\bin\Debug\net5.0\QulixPhotoStock.Domain.deps.json
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\bin\Debug\net5.0\QulixPhotoStock.Domain.dll
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\bin\Debug\net5.0\QulixPhotoStock.Domain.pdb
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.dll
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\refint\QulixPhotoStock.Domain.dll
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\QulixPhotoStock.Domain.pdb
+C:\Users\Toshiba\source\repos\QulixPhotoStock\QulixPhotoStock.Domain\obj\Debug\net5.0\ref\QulixPhotoStock.Domain.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6F7C69C3-97ED-44E6-AF0C-E356645875B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1EEB188C-3821-46C1-8503-E75419E720FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deployment", "deployment", "{26F86CF6-BF73-43B5-8867-0A37DFDAE25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QulixPhotoStock.Domain", "QulixPhotoStock.Domain\QulixPhotoStock.Domain.csproj", "{8E71FE16-9546-4CE4-8D50-9458B6A58FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QulixPhotoStock.Data", "QulixPhotoStock.Data\QulixPhotoStock.Data.csproj", "{9AAFD714-8E8F-445D-AC44-83CAF06E3C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QulixPhotoStock.Service", "QulixPhotoStock.Service\QulixPhotoStock.Service.csproj", "{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QulixPhotoStock.Application", "QulixPhotoStock.Application\QulixPhotoStock.Application.csproj", "{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E71FE16-9546-4CE4-8D50-9458B6A58FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E71FE16-9546-4CE4-8D50-9458B6A58FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E71FE16-9546-4CE4-8D50-9458B6A58FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E71FE16-9546-4CE4-8D50-9458B6A58FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAFD714-8E8F-445D-AC44-83CAF06E3C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAFD714-8E8F-445D-AC44-83CAF06E3C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAFD714-8E8F-445D-AC44-83CAF06E3C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAFD714-8E8F-445D-AC44-83CAF06E3C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E71FE16-9546-4CE4-8D50-9458B6A58FA0} = {6F7C69C3-97ED-44E6-AF0C-E356645875B2}
+		{9AAFD714-8E8F-445D-AC44-83CAF06E3C42} = {6F7C69C3-97ED-44E6-AF0C-E356645875B2}
+		{03AA7193-17C6-4D5A-9FCC-A68A9A0D5BA2} = {6F7C69C3-97ED-44E6-AF0C-E356645875B2}
+		{5612CEE3-F7C0-4A46-B278-B4F9BA79BC52} = {6F7C69C3-97ED-44E6-AF0C-E356645875B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECB0D42-FD82-471D-923D-D13E91D481FC}
+	EndGlobalSection
+EndGlobal
